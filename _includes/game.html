@@ -1,5 +1,7 @@
+<h3>{{ include.game.title }}</h3>
+
 {% if include.game.website %}<a href="{{ include.game.website }}">{% endif %}
 
-{{ include.game.title }}
+<img src="/assets/games/{{ include.game.image }}" alt="">
 
 {% if include.game.website %}</a>{% endif %}
