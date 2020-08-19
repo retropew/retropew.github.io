@@ -1,0 +1,31 @@
+new_releases:
+  - title: Dusk
+    release_date: 2018-12-10
+    image: dusk.png
+    website: https://newblood.games/dusk
+    platforms:
+      - linux
+      - mac
+      - windows
+    links:
+      gog: https://www.gog.com/game/dusk
+      humble: https://www.humblebundle.com/store/dusk
+      steam: https://store.steampowered.com/app/519860/DUSK/
+
+  - title: Exodemon
+    release_date: 2019-08-03
+    image: exodemon.png
+    platforms:
+      - windows
+    links:
+      itch: https://kuupu.itch.io/exodemon
+      steam: https://store.steampowered.com/app/516820/Exodemon/
+
+classics:
+  - title: Blood
+    release_date: 1997-05-31
+    image: blood.jpg
+    platforms:
+      - windows
+    links:
+      steam: https://store.steampowered.com/app/299030/Blood_One_Unit_Whole_Blood/

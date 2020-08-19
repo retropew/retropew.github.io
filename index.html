@@ -1,4 +1,35 @@
 ---
 title: RetroPew
 ---
-<h1>TODO</h1>
+<section>
+  <h2>New Releases</h2>
+
+  <ul>
+    {% for game in site.data.games.new_releases %}
+      <li>
+        {% if game.website %}
+          <a href="{{ game.website }}">{{ game.title }}</a>
+        {% else %}
+          {{ game.title }}
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+</section>
+
+
+<section>
+  <h2>Classics</h2>
+
+  <ul>
+    {% for game in site.data.games.classics %}
+      <li>
+        {% if game.website %}
+          <a href="{{ game.website }}">{{ game.title }}</a>
+        {% else %}
+          {{ game.title }}
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+</section>
