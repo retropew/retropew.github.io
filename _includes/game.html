@@ -1,4 +1,7 @@
 <h3>{{ include.game.title }}</h3>
+<time datetime="{{ include.game.release_date }}">
+  {{ include.game.release_date | date: "%Y" }}
+</time>
 
 {% if include.game.website %}<a href="{{ include.game.website }}">{% endif %}
 
