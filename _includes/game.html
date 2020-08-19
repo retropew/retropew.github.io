@@ -5,3 +5,13 @@
 <img src="/assets/games/{{ include.game.image }}" alt="">
 
 {% if include.game.website %}</a>{% endif %}
+
+<ul class="links">
+  {% for link in include.game.links %}
+    <li>
+      <a href="{{ link[1] }}">
+        <img src="./assets/icon-{{ link[0] }}.png" alt="{{ link[0] }}">
+      </a>
+    </li>
+  {% endfor %}
+</ul>
