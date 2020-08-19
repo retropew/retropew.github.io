@@ -7,11 +7,7 @@ title: RetroPew
   <ul>
     {% for game in site.data.games.new_releases %}
       <li>
-        {% if game.website %}
-          <a href="{{ game.website }}">{{ game.title }}</a>
-        {% else %}
-          {{ game.title }}
-        {% endif %}
+        {% include game.html game=game %}
       </li>
     {% endfor %}
   </ul>
@@ -24,11 +20,7 @@ title: RetroPew
   <ul>
     {% for game in site.data.games.classics %}
       <li>
-        {% if game.website %}
-          <a href="{{ game.website }}">{{ game.title }}</a>
-        {% else %}
-          {{ game.title }}
-        {% endif %}
+        {% include game.html game=game %}
       </li>
     {% endfor %}
   </ul>
