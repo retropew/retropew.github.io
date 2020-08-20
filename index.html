@@ -6,7 +6,7 @@ title: RetroPew
 
   <ul class="game-list">
     {% for game in site.data.games.new_releases %}
-      <li class="game">
+      <li class="game{% for platform in game.platforms %} platform-{{platform}}{% endfor %}">
         {% include game.html game=game %}
       </li>
     {% endfor %}
@@ -19,7 +19,7 @@ title: RetroPew
 
   <ul class="game-list">
     {% for game in site.data.games.classics %}
-      <li class="game">
+      <li class="game{% for platform in game.platforms %} platform-{{platform}}{% endfor %}">
         {% include game.html game=game %}
       </li>
     {% endfor %}

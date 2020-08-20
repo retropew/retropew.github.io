@@ -222,7 +222,7 @@ ul {
 
 /* mobile */
 @media (max-width: 600px) {
-  .filters {
+  header aside {
     flex-basis: 100%;
   }
 
