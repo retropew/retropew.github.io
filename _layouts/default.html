@@ -3,16 +3,25 @@
   <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
+    <link rel="stylesheet" type="text/css" href="/assets/styles.css" />
   </head>
   <body>
-    <header>
-      <h1>{{ page.title }}</h1>
-    </header>
+    <div class="container-wrapper">
+      <div class="container">
+        <header>
+          <h1><img src="./assets/logoe.svg" alt="{{ page.title }}" /></h1>
+        </header>
 
-    <main>{{ content }}</main>
+        <main>{{ content }}</main>
 
-    <footer>
-      This is a collection of new and old shooters and where to get them.
-    </footer>
+        <footer>
+          <p class="hero">
+            This is a collection of new and old shooters and where to get them.
+          </p>
+          Produced and maintained by
+          <a href="http://quakeulf.suxos.org/">quakeulf</a>, 2019
+        </footer>
+      </div>
+    </div>
   </body>
 </html>

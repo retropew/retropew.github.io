@@ -1,13 +1,15 @@
+{% if include.game.website %}<a href="{{ include.game.website }}">{% endif %}
+
+<div class="image">
+    <img src="/assets/games/{{ include.game.image }}" alt="">
+</div>
+
+{% if include.game.website %}</a>{% endif %}
+
 <h3>{{ include.game.title }}</h3>
 <time datetime="{{ include.game.release_date }}">
   {{ include.game.release_date | date: "%Y" }}
 </time>
-
-{% if include.game.website %}<a href="{{ include.game.website }}">{% endif %}
-
-<img src="/assets/games/{{ include.game.image }}" alt="">
-
-{% if include.game.website %}</a>{% endif %}
 
 <ul class="links">
   {% for link in include.game.links %}

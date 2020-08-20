@@ -2,11 +2,11 @@
 title: RetroPew
 ---
 <section>
-  <h2>New Releases</h2>
+  <h2><span class="text">New Releases</span></h2>
 
-  <ul>
+  <ul class="game-list">
     {% for game in site.data.games.new_releases %}
-      <li>
+      <li class="game">
         {% include game.html game=game %}
       </li>
     {% endfor %}
@@ -15,11 +15,11 @@ title: RetroPew
 
 
 <section>
-  <h2>Classics</h2>
+  <h2><span class="text">Classics</span></h2>
 
-  <ul>
+  <ul class="game-list">
     {% for game in site.data.games.classics %}
-      <li>
+      <li class="game">
         {% include game.html game=game %}
       </li>
     {% endfor %}
