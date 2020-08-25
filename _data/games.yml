@@ -125,6 +125,15 @@ new_releases:
       itch: https://zanthebonebreaker.itch.io/hedon
       steam: https://store.steampowered.com/app/1072150/Hedon/
 
+  - title: Hell Hunt
+    release_date: TBD
+    image: hellhunt.png
+    platforms:
+      - windows
+    links:
+      itch: https://t19games.itch.io/hellhunt
+      steam: https://store.steampowered.com/app/1334730/Hell_Hunt/
+
   - title: Hellbound
     release_date: 2020-08-04
     image: hellbound.jpg
