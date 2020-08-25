@@ -336,6 +336,20 @@ classics:
       gog: https://www.gog.com/game/doom_ii_final_doom
       steam: https://store.steampowered.com/app/2300/DOOM_II/
 
+  - title: Doom 64
+    release_date: 1997-04-01
+    image: doom64.jpg
+    platforms:
+      - playstation
+      - switch
+      - windows
+      - xbox
+    links:
+      playstation: https://store.playstation.com/en-us/product/UP1003-CUSA16287_00-DOOM64X199700000
+      steam: https://store.steampowered.com/app/1148590/DOOM_64/
+      switch: https://www.nintendo.com/games/detail/doom-64-switch/
+      xbox: https://www.microsoft.com/en-us/p/doom-64/9mxnd4pqlk3w
+
   - title: Heretic
     release_date: 1994-12-23
     image: heretic.png
