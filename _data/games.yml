@@ -31,6 +31,15 @@ new_releases:
       gog: https://www.gog.com/game/blood_fresh_supply
       steam: https://store.steampowered.com/app/1010750/Blood_Fresh_Supply/
 
+  - title: Core Decay
+    release_date: TBD
+    image: coredecay.jpg
+    website: https://coredecay.com/
+    platforms:
+      - windows
+    links:
+      steam: https://store.steampowered.com/app/1260940/Core_Decay/
+
   - title: CTHON
     release_date: 2017-03-18
     image: cthon.png
