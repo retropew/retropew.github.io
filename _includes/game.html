@@ -11,12 +11,14 @@
   {{ include.game.release_date | date: "%Y" }}
 </time>
 
-<ul class="links">
-  {% for link in include.game.links %}
-    <li>
-      <a href="{{ link[1] }}">
-        <img src="./assets/icon-{{ link[0] }}.png" alt="{{ link[0] }}">
-      </a>
-    </li>
-  {% endfor %}
-</ul>
+{% if include.game.links %}
+  <ul class="links">
+    {% for link in include.game.links %}
+      <li>
+        <a href="{{ link[1] }}">
+          <img src="./assets/icon-{{ link[0] }}.png" alt="{{ link[0] }}">
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+{% endif %}
