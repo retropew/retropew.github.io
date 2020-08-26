@@ -72,6 +72,15 @@ new_releases:
       gog: https://www.gog.com/game/devil_daggers
       steam: https://store.steampowered.com/app/422970/Devil_Daggers/
 
+  - title: DOOMBRINGER
+    release_date: TBD
+    image: doombringer.png
+    website: http://www.doombringer.eu/
+    platforms:
+      - windows
+    links:
+      steam: https://store.steampowered.com/app/1156120/DOOMBRINGER/
+
   - title: "Duke Nukem 3D: 20th Anniversary World Tour"
     release_date: "2016-10-12"
     image: dn3d20.jpg
