@@ -1,7 +1,7 @@
 ---
 new_releases:
   - title: Amid Evil
-    release_date: 2019-06-20
+    release_date: "2019-06-20"
     image: amidevil.png
     website: https://newblood.games/amidevil
     platforms:
@@ -12,7 +12,7 @@ new_releases:
       steam: https://store.steampowered.com/app/673130/AMID_EVIL/
 
   - title: Apocryph
-    release_date: 2018-04-27
+    release_date: "2018-04-27"
     image: apocryph.png
     website: http://www.bigzur.com
     platforms:
@@ -22,7 +22,7 @@ new_releases:
       steam: https://store.steampowered.com/app/596240/Apocryph_an_oldschool_shooter/
 
   - title: "Blood: Fresh Supply"
-    release_date: 2019-05-09
+    release_date: "2019-05-09"
     image: bloodfreshsupply.png
     website: https://www.nightdivestudios.com/
     platforms:
@@ -41,7 +41,7 @@ new_releases:
       steam: https://store.steampowered.com/app/1260940/Core_Decay/
 
   - title: CTHON
-    release_date: 2017-03-18
+    release_date: "2017-03-18"
     image: cthon.png
     platforms:
       - windows
@@ -50,7 +50,7 @@ new_releases:
       steam: https://store.steampowered.com/app/595100/CTHON/
 
   - title: Deep Rock Galactic
-    release_date: 2020-05-13
+    release_date: "2020-05-13"
     image: deeprockgalactic.png
     website: https://www.deeprockgalactic.com/
     platforms:
@@ -61,7 +61,7 @@ new_releases:
       xbox: https://www.microsoft.com/store/apps/9NHFVWX1V7QJ?ocid=badge
 
   - title: Devil Daggers
-    release_date: 2016-02-18
+    release_date: "2016-02-18"
     image: devildaggers.png
     website: http://devildaggers.com/
     platforms:
@@ -73,7 +73,7 @@ new_releases:
       steam: https://store.steampowered.com/app/422970/Devil_Daggers/
 
   - title: "Duke Nukem 3D: 20th Anniversary World Tour"
-    release_date: 2016-10-12
+    release_date: "2016-10-12"
     image: dn3d20.jpg
     website: https://www.gearboxsoftware.com/game/duke-3d-20th/
     platforms:
@@ -86,7 +86,7 @@ new_releases:
       xbox: https://www.microsoft.com/en-us/p/duke-nukem-3d-20th-anniversary-world-tour/BZF309Q32MDT
 
   - title: Dusk
-    release_date: 2018-12-10
+    release_date: "2018-12-10"
     image: dusk.png
     website: https://newblood.games/dusk
     platforms:
@@ -99,7 +99,7 @@ new_releases:
       steam: https://store.steampowered.com/app/519860/DUSK/
 
   - title: Exodemon
-    release_date: 2019-08-03
+    release_date: "2019-08-03"
     image: exodemon.png
     platforms:
       - windows
@@ -115,7 +115,7 @@ new_releases:
       - windows
 
   - title: Gorescript
-    release_date: 2017-06-15
+    release_date: "2017-06-15"
     image: gorescript.png
     website: https://gorescript.github.io/
     platforms:
@@ -124,7 +124,7 @@ new_releases:
       steam: https://store.steampowered.com/app/618690/Gorescript/
 
   - title: Hedon
-    release_date: 2019-05-16
+    release_date: "2019-05-16"
     image: hedon.png
     website: https://hedon.fandom.com/wiki/Hedon_Wiki
     platforms:
@@ -144,7 +144,7 @@ new_releases:
       steam: https://store.steampowered.com/app/1334730/Hell_Hunt/
 
   - title: Hellbound
-    release_date: 2020-08-04
+    release_date: "2020-08-04"
     image: hellbound.jpg
     website: http://hellboundgame.com/
     platforms:
@@ -163,7 +163,7 @@ new_releases:
       steam: https://store.steampowered.com/app/490360/Hermodr/
 
   - title: High Hell
-    release_date: 2017-08-23
+    release_date: "2017-08-23"
     image: highell.png
     website: https://www.devolverdigital.com/games/high-hell
     platforms:
@@ -174,7 +174,7 @@ new_releases:
       steam: https://store.steampowered.com/app/673000/High_Hell/
 
   - title: Intrude
-    release_date: 2016-08-01
+    release_date: "2016-08-01"
     image: intrude.png
     platforms:
       - windows
@@ -182,7 +182,7 @@ new_releases:
       steam: https://store.steampowered.com/app/495720/Intrude/
 
   - title: Ion Fury
-    release_date: 2019-08-15
+    release_date: "2019-08-15"
     image: ionfury.png
     website: http://www.ionfury.com/
     platforms:
@@ -199,7 +199,7 @@ new_releases:
       xbox: https://www.microsoft.com/en-us/p/ion-fury/9pjjv5rjgfwj
 
   - title: Lovely Planet Arcade
-    release_date: 2016-06-22
+    release_date: "2016-06-22"
     image: lovelyplanetarcade.png
     website: http://quicktequila.com/lovelyplanetarcade.html
     platforms:
@@ -210,7 +210,7 @@ new_releases:
       steam: https://store.steampowered.com/app/436000/Lovely_Planet_Arcade/
 
   - title: MAXIMUM Action
-    release_date: 2018-09-19
+    release_date: "2018-09-19"
     image: maximumaction.png
     platforms:
       - windows
@@ -218,7 +218,7 @@ new_releases:
       steam: https://store.steampowered.com/app/853770/MAXIMUM_Action/
 
   - title: Prodeus
-    release_date: 2020-12-31
+    release_date: "2020-12-31"
     image: prodeus.png
     website: http://www.prodeusgame.com/
     platforms:
@@ -227,7 +227,7 @@ new_releases:
       steam: https://store.steampowered.com/app/964800/Prodeus/
 
   - title: Project Warlock
-    release_date: 2018-12-06
+    release_date: "2018-12-06"
     image: projectwarlock.jpg
     website: http://gaming-company.com/projectwarlock.html
     platforms:
@@ -237,7 +237,7 @@ new_releases:
       steam: https://store.steampowered.com/app/893680/Project_Warlock/
 
   - title: Ratz Instagib
-    release_date: 2016-07-27
+    release_date: "2016-07-27"
     image: ratzinstagib.png
     website: http://www.ratzinstagib.com/
     platforms:
@@ -247,7 +247,7 @@ new_releases:
       steam: https://store.steampowered.com/app/338170/Ratz_Instagib/
 
   - title: Reflex Arena
-    release_date: 2014-11-04
+    release_date: "2014-11-04"
     image: reflexarena.png
     website: https://www.reflexarena.com/
     platforms:
@@ -256,7 +256,7 @@ new_releases:
       steam: https://store.steampowered.com/app/328070/Reflex_Arena/
 
   - title: Revulsion
-    release_date: 2019-02-19
+    release_date: "2019-02-19"
     image: revulsion.png
     platforms:
       - windows
@@ -264,7 +264,7 @@ new_releases:
       steam: https://store.steampowered.com/app/719180/Revulsion/
 
   - title: "STRAFE: Millennium Edition"
-    release_date: 2017-05-09
+    release_date: "2017-05-09"
     image: strafemillenniumedition.png
     website: http://www.strafe1996.com/
     platforms:
@@ -278,7 +278,7 @@ new_releases:
       steam: https://store.steampowered.com/app/442780/STRAFE_Millennium_Edition/
 
   - title: UNLOVED
-    release_date: 2016-09-29
+    release_date: "2016-09-29"
     image: unloved.png
     website: http://www.paulinthenet.de/
     platforms:
@@ -287,14 +287,14 @@ new_releases:
       steam: https://store.steampowered.com/app/321270/UNLOVED/
 
   - title: Viscerafest
-    release_date: 2021-12-31
+    release_date: "2021-12-31"
     image: viscerafest.png
     website: https://twitter.com/Awesreek
     platforms:
       - windows
 
   - title: "Wrath: Aeon of Ruin"
-    release_date: 2019-11-22
+    release_date: "2019-11-22"
     image: wrathaeonofruin.png
     website: http://www.wrath.game/
     platforms:
@@ -303,7 +303,7 @@ new_releases:
       steam: https://store.steampowered.com/app/1000410/WRATH_Aeon_of_Ruin/
 
   - title: Ziggurat
-    release_date: 2014-08-23
+    release_date: "2014-08-23"
     image: ziggurat.png
     platforms:
       - linux
@@ -315,7 +315,7 @@ new_releases:
 
 classics:
   - title: Blood
-    release_date: 1997-05-31
+    release_date: "1997-05-31"
     image: blood.jpg
     platforms:
       - windows
@@ -323,12 +323,12 @@ classics:
       steam: https://store.steampowered.com/app/299030/Blood_One_Unit_Whole_Blood/
 
   - title: Chex Quest
-    release_date: 1996-12-31
+    release_date: "1996-12-31"
     image: chexquest.png
     website: https://www.chexmix.com/chexquest/
 
   - title: Doom
-    release_date: 1993-12-10
+    release_date: "1993-12-10"
     image: doom.jpg
     platforms:
       - windows
@@ -337,7 +337,7 @@ classics:
       steam: https://store.steampowered.com/app/2280/Ultimate_Doom/
 
   - title: "Doom II: Hell on Earth"
-    release_date: 1994-09-30
+    release_date: "1994-09-30"
     image: doom2.jpg
     platforms:
       - windows
@@ -346,7 +346,7 @@ classics:
       steam: https://store.steampowered.com/app/2300/DOOM_II/
 
   - title: Doom 64
-    release_date: 1997-04-01
+    release_date: "1997-04-01"
     image: doom64.jpg
     platforms:
       - playstation
@@ -360,7 +360,7 @@ classics:
       xbox: https://www.microsoft.com/en-us/p/doom-64/9mxnd4pqlk3w
 
   - title: Heretic
-    release_date: 1994-12-23
+    release_date: "1994-12-23"
     image: heretic.png
     platforms:
       - windows
@@ -368,7 +368,7 @@ classics:
       steam: https://store.steampowered.com/app/2390/Heretic_Shadow_of_the_Serpent_Riders/
 
   - title: "HeXen: Beyond Heretic"
-    release_date: 1995-10-30
+    release_date: "1995-10-30"
     image: hexen.jpg
     platforms:
       - windows
@@ -376,7 +376,7 @@ classics:
       steam: https://store.steampowered.com/app/2360/HeXen_Beyond_Heretic/
 
   - title: HeXen II
-    release_date: 1997-08-31
+    release_date: "1997-08-31"
     image: hexenii.jpg
     platforms:
       - windows
@@ -384,7 +384,7 @@ classics:
       steam: https://store.steampowered.com/app/9060/HeXen_II/
 
   - title: Quake
-    release_date: 1996-07-23
+    release_date: "1996-07-23"
     image: q.jpg
     platforms:
       - windows
@@ -393,7 +393,7 @@ classics:
       steam: https://store.steampowered.com/app/2310/QUAKE/
 
   - title: Quake II
-    release_date: 1997-12-09
+    release_date: "1997-12-09"
     image: q2.jpg
     platforms:
       - windows
@@ -402,7 +402,7 @@ classics:
       steam: https://store.steampowered.com/app/2320/QUAKE_II/
 
   - title: Quake III
-    release_date: 1999-12-02
+    release_date: "1999-12-02"
     image: q3.jpg
     platforms:
       - windows
@@ -411,7 +411,7 @@ classics:
       steam: https://store.steampowered.com/app/2200/Quake_III_Arena/
 
   - title: "Rise of the Triad: Dark War"
-    release_date: 1995-02-17
+    release_date: "1995-02-17"
     image: riseofthetriaddarkwar.jpg
     platforms:
       - linux
@@ -422,7 +422,7 @@ classics:
       steam: https://store.steampowered.com/app/358410/Rise_of_the_Triad_Dark_War/
 
   - title: Shadow Warrior
-    release_date: 1997-05-13
+    release_date: "1997-05-13"
     image: shadowwarrior.png
     platforms:
       - linux
@@ -433,7 +433,7 @@ classics:
       steam: https://store.steampowered.com/app/238070/Shadow_Warrior_Classic_1997/
 
   - title: Turok
-    release_date: 1997-11-26
+    release_date: "1997-11-26"
     image: turok.jpg
     platforms:
       - linux
@@ -444,7 +444,7 @@ classics:
       steam: https://store.steampowered.com/app/405820/Turok/
 
   - title: "Turok 2: Seeds of Evil"
-    release_date: 1998-12-10
+    release_date: "1998-12-10"
     image: turok2.jpg
     platforms:
       - linux
@@ -455,7 +455,7 @@ classics:
       steam: https://store.steampowered.com/app/405830/Turok_2_Seeds_of_Evil/
 
   - title: Unreal
-    release_date: 1998-05-22
+    release_date: "1998-05-22"
     image: unreal.jpg
     platforms:
       - windows
@@ -464,7 +464,7 @@ classics:
       steam: https://store.steampowered.com/app/13250/Unreal_Gold/
 
   - title: Unreal Tournament
-    release_date: 2000-10-25
+    release_date: "2000-10-25"
     image: unrealtournament.jpg
     platforms:
       - windows
