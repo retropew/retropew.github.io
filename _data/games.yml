@@ -441,6 +441,15 @@ classics:
       gog: https://www.gog.com/game/shadow_warrior_complete
       steam: https://store.steampowered.com/app/238070/Shadow_Warrior_Classic_1997/
 
+  - title: SiN
+    release_date: "1998-10-31"
+    image: sin.png
+    platforms:
+      - windows
+    links:
+      gog: https://www.gog.com/game/sin_gold
+      steam: https://store.steampowered.com/app/1313/SiN_Gold/
+
   - title: Turok
     release_date: "1997-11-26"
     image: turok.jpg
