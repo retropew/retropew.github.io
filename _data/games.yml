@@ -286,6 +286,15 @@ new_releases:
       playstation: https://www.playstation.com/en-us/games/strafe-ps4/
       steam: https://store.steampowered.com/app/442780/STRAFE_Millennium_Edition/
 
+  - title: System Shock
+    release_date: TBD
+    image: systemshockremake.png
+    platforms:
+      - windows
+    links:
+      gog: https://www.gog.com/game/system_shock
+      steam: https://store.steampowered.com/app/482400/System_Shock/
+
   - title: UNLOVED
     release_date: "2016-09-29"
     image: unloved.png
@@ -449,6 +458,35 @@ classics:
     links:
       gog: https://www.gog.com/game/sin_gold
       steam: https://store.steampowered.com/app/1313/SiN_Gold/
+
+  - title: Strife
+    release_date: "1996-05-31"
+    image: strife.png
+    platforms:
+      - linux
+      - mac
+      - windows
+    links:
+      gog: https://www.gog.com/game/strife_veteran_edition
+      steam: https://store.steampowered.com/app/317040/The_Original_Strife_Veteran_Edition/
+
+  - title: System Shock
+    release_date: "1994-09-22"
+    image: systemshock.png
+    platforms:
+      - windows
+    links:
+      gog: https://www.gog.com/game/system_shock_enhanced_edition
+      steam: https://store.steampowered.com/app/410710/System_Shock_Enhanced_Edition/
+
+  - title: System Shock 2
+    release_date: "1999-08-11"
+    image: systemshock2.png
+    platforms:
+      - windows
+    links:
+      gog: https://www.gog.com/game/system_shock_2
+      steam: https://store.steampowered.com/app/238210/System_Shock_2/
 
   - title: Turok
     release_date: "1997-11-26"
