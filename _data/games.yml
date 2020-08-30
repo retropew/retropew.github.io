@@ -226,6 +226,15 @@ new_releases:
     links:
       steam: https://store.steampowered.com/app/853770/MAXIMUM_Action/
 
+  - title: Post Void
+    release_date: "2020-08-06"
+    image: postvoid.png
+    website: http://www.whycjwhy.com/
+    platforms:
+      - windows
+    links:
+      steam: https://store.steampowered.com/app/1285670/Post_Void/
+
   - title: Prodeus
     release_date: "2020-12-31"
     image: prodeus.png
