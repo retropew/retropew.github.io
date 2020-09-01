@@ -319,6 +319,8 @@ new_releases:
     website: https://twitter.com/Awesreek
     platforms:
       - windows
+    links:
+      steam: https://store.steampowered.com/app/1406780/Viscerafest/
 
   - title: "Wrath: Aeon of Ruin"
     release_date: "2019-11-22"
