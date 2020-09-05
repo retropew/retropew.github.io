@@ -186,6 +186,14 @@ new_releases:
     links:
       steam: https://store.steampowered.com/app/753590/Hellbound/
 
+  - title: Hellscreen
+    release_date: "2021-09-09"
+    image: hellscreen.png
+    platforms:
+      - windows
+    links:
+      steam: https://store.steampowered.com/app/1410090/Hellscreen/
+
   - title: Hermodr
     release_date: TBD
     image: hermodr.png
