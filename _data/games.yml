@@ -31,6 +31,14 @@ new_releases:
       gog: https://www.gog.com/game/blood_fresh_supply
       steam: https://store.steampowered.com/app/1010750/Blood_Fresh_Supply/
 
+  - title: Brutal Fate
+    release_date: "2021-12-31"
+    image: brutalfate.png
+    platforms:
+      - windows
+    links:
+      steam: https://store.steampowered.com/app/1409460/Brutal_Fate/
+
   - title: Core Decay
     release_date: TBD
     image: coredecay.jpg
@@ -107,6 +115,14 @@ new_releases:
       humble: https://www.humblebundle.com/store/dusk
       steam: https://store.steampowered.com/app/519860/DUSK/
 
+  - title: Effigy
+    release_date: "2021-12-31"
+    image: effigy.png
+    platforms:
+      - windows
+    links:
+      steam: https://store.steampowered.com/app/1388270/Effigy/
+
   - title: Exodemon
     release_date: "2019-08-03"
     image: exodemon.png
@@ -131,6 +147,15 @@ new_releases:
       - windows
     links:
       steam: https://store.steampowered.com/app/618690/Gorescript/
+
+  - title: Graven
+    release_date: "2021-12-31"
+    image: graven.jpg
+    website: https://www.1cpublishing.eu/game/754-graven
+    platforms:
+      - windows
+    links:
+      steam: https://store.steampowered.com/app/1371690/GRAVEN/
 
   - title: Hedon
     release_date: "2019-05-16"
@@ -161,6 +186,14 @@ new_releases:
     links:
       steam: https://store.steampowered.com/app/753590/Hellbound/
 
+  - title: Hellscreen
+    release_date: "2021-09-09"
+    image: hellscreen.png
+    platforms:
+      - windows
+    links:
+      steam: https://store.steampowered.com/app/1410090/Hellscreen/
+
   - title: Hermodr
     release_date: TBD
     image: hermodr.png
@@ -181,6 +214,14 @@ new_releases:
     links:
       itch: https://devolverdigital.itch.io/highhell
       steam: https://store.steampowered.com/app/673000/High_Hell/
+
+  - title: HROT
+    release_date: TBD
+    image: hrot.png
+    platforms:
+      - windows
+    links:
+      steam: https://store.steampowered.com/app/824600/HROT/
 
   - title: Intrude
     release_date: "2016-08-01"
@@ -206,6 +247,15 @@ new_releases:
       steam: https://store.steampowered.com/app/562860/Ion_Fury/
       switch: https://www.nintendo.com/games/detail/ion-fury-switch/
       xbox: https://www.microsoft.com/en-us/p/ion-fury/9pjjv5rjgfwj
+
+  - title: "Kingpin: Reloaded"
+    release_date: "TBD"
+    image: kingpinreloaded.png
+    website: https://3drealms.com/catalog/kingpin-reloaded_171/
+    platforms:
+      - windows
+    links:
+      steam: https://store.steampowered.com/app/1224700/Kingpin_Reloaded/
 
   - title: Lovely Planet Arcade
     release_date: "2016-06-22"
@@ -234,6 +284,14 @@ new_releases:
       - windows
     links:
       steam: https://store.steampowered.com/app/1285670/Post_Void/
+
+  - title: "POSTAL: Brain Damaged"
+    release_date: "2021-12-31"
+    image: postalbraindamaged.png
+    platforms:
+      - windows
+    links:
+      steam: https://store.steampowered.com/app/1359980/POSTAL_Brain_Damaged/
 
   - title: Prodeus
     release_date: "2020-12-31"
