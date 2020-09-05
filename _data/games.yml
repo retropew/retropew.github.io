@@ -31,6 +31,14 @@ new_releases:
       gog: https://www.gog.com/game/blood_fresh_supply
       steam: https://store.steampowered.com/app/1010750/Blood_Fresh_Supply/
 
+  - title: Brutal Fate
+    release_date: "2021-12-31"
+    image: brutalfate.png
+    platforms:
+      - windows
+    links:
+      steam: https://store.steampowered.com/app/1409460/Brutal_Fate/
+
   - title: Core Decay
     release_date: TBD
     image: coredecay.jpg
