@@ -224,6 +224,15 @@ new_releases:
       switch: https://www.nintendo.com/games/detail/ion-fury-switch/
       xbox: https://www.microsoft.com/en-us/p/ion-fury/9pjjv5rjgfwj
 
+  - title: "Kingpin: Reloaded"
+    release_date: "TBD"
+    image: kingpinreloaded.png
+    website: https://3drealms.com/catalog/kingpin-reloaded_171/
+    platforms:
+      - windows
+    links:
+      steam: https://store.steampowered.com/app/1224700/Kingpin_Reloaded/
+
   - title: Lovely Planet Arcade
     release_date: "2016-06-22"
     image: lovelyplanetarcade.png
