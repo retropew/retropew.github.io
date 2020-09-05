@@ -132,6 +132,15 @@ new_releases:
     links:
       steam: https://store.steampowered.com/app/618690/Gorescript/
 
+  - title: Graven
+    release_date: "2021-12-31"
+    image: graven.jpg
+    website: https://www.1cpublishing.eu/game/754-graven
+    platforms:
+      - windows
+    links:
+      steam: https://store.steampowered.com/app/1371690/GRAVEN/
+
   - title: Hedon
     release_date: "2019-05-16"
     image: hedon.png
