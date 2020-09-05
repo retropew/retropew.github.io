@@ -252,6 +252,14 @@ new_releases:
     links:
       steam: https://store.steampowered.com/app/1285670/Post_Void/
 
+  - title: "POSTAL: Brain Damaged"
+    release_date: "2021-12-31"
+    image: postalbraindamaged.png
+    platforms:
+      - windows
+    links:
+      steam: https://store.steampowered.com/app/1359980/POSTAL_Brain_Damaged/
+
   - title: Prodeus
     release_date: "2020-12-31"
     image: prodeus.png
