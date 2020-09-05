@@ -115,6 +115,14 @@ new_releases:
       humble: https://www.humblebundle.com/store/dusk
       steam: https://store.steampowered.com/app/519860/DUSK/
 
+  - title: Effigy
+    release_date: "2021-12-31"
+    image: effigy.png
+    platforms:
+      - windows
+    links:
+      steam: https://store.steampowered.com/app/1388270/Effigy/
+
   - title: Exodemon
     release_date: "2019-08-03"
     image: exodemon.png
