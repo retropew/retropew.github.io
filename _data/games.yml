@@ -207,6 +207,14 @@ new_releases:
       itch: https://devolverdigital.itch.io/highhell
       steam: https://store.steampowered.com/app/673000/High_Hell/
 
+  - title: HROT
+    release_date: TBD
+    image: hrot.png
+    platforms:
+      - windows
+    links:
+      steam: https://store.steampowered.com/app/824600/HROT/
+
   - title: Intrude
     release_date: "2016-08-01"
     image: intrude.png
